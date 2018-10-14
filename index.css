@@ -11,6 +11,8 @@ padding:5px;
 margin:10px;
 border-radius: 10px;
 font-weight:bold;
+
+
 }
 
 main{
@@ -25,6 +27,7 @@ img {
     border-radius:100px;
     margin-left:650px;
     margin-top:-400px; 
+    
 }
 ol {
    color:white; 
@@ -42,4 +45,7 @@ li {
 }
 span {
     color:red;
+}
+.sub1 {
+    box-shadow:5px 5px 1px ;
 }
